@@ -1,5 +1,5 @@
 <!--Banner-->
-![BINGI SARADA Banner Image](./"C:\Users\sharada\Downloads\Grey Modern Personal Brand Banner Landscape.png")
+![BINGI SARADA Banner Image](./" Brand Banner Landscape.png")
 
 <!--Night Owl image-->
 <div>
