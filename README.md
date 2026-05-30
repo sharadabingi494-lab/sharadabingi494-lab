@@ -1,5 +1,5 @@
 <!--Banner-->
-![BINGI SARADA Banner Image](./" Brand Banner Landscape.png")
+![BINGI SARADA Banner](./Brand-Banner-Landscape.png)
 
 <!--Night Owl image-->
 <div>
