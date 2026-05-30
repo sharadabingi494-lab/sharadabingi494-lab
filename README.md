@@ -1,5 +1,5 @@
 <!--Banner-->
-![BINGI SARADA Banner](./BINGI SARADA.png)
+![BINGI SARADA Banner](./bingi-sarada-banner.png)
 
 <!--Night Owl image-->
 <div>
