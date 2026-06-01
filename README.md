@@ -1,79 +1,96 @@
-<!--Banner-->
-![BINGI SARADA Banner](./bingi-sarada-banner.png)
+<div align="center">
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<!-- Header Banner with Animated Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bingi%20Sarada&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Fresher&descAlignY=62&descSize=18&animation=fadeIn"/>
+
 </div>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M BINGI SARADA!
-*Data Scientist & AI Engineer*
-<br />
+---
 
-<!--Start Intro-->
-<p align="left">I am a <strong>Data Scientist</strong> and <strong>AI Engineer</strong> with a deep passion for building intelligent systems, Agentic AI pipelines, and data-driven applications. I love working with Python, Machine Learning, Deep Learning, LLMs, Agentic AI Frameworks, and Data Visualization.</p>
+<div align="center">
 
-- âœ¨ Student of life :)
-- ðŸŒ± I'm currently learning many things, I believe that everyday is a learning opportunity.
-- ðŸ¤– Passionate about **Agentic AI**, LLM systems, and building AI-powered real-world applications.
-- ðŸ§  Deep interest in **Data Science**, ML model development, and advanced AI research.
-- ðŸ’â€â™‚ï¸ Trusted member and Moderator at [DEV Community]
-- ðŸ™ A lifetime insider and Mentor at [Exercism]).
-- âœ I write technical blogs, You can visit my blog site at [DEV]
-- â¤ Contributing to Open Source.
-- ðŸ’» Visit my [Portfolio] for more details about me.
-<!--End Intro-->
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Bingi+Sarada!;Data+Scientist+%26+AI+Engineer;Agentic+AI+%7C+LLMs+%7C+Machine+Learning;Always+Learning%2C+Always+Building+🚀)](https://git.io/typing-svg)
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SumitSartale" style="padding-right:20px;" />
-</p>
+</div>
 
 ---
 
-<!--Languages and Tools Section-->
-<h2 align="center">Tá´‡á´„Êœ sá´›á´€á´„á´‹ & Lá´€á´›á´‡sá´› Ê™ÊŸá´É¢s</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+## 🙋‍♂️ About Me
 
-<h3 align="left">ðŸ§  Data Science & AI Skills</h3>
-<ul align="left">
-  <li><strong>Data Science:</strong> Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, EDA, Feature Engineering</li>
-  <li><strong>Machine Learning & Deep Learning:</strong> Supervised/Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras</li>
-  <li><strong>Agentic AI:</strong> LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex, OpenAI Agents SDK, MCP (Model Context Protocol), RAG Pipelines, Multi-Agent Systems</li>
-  <li><strong>LLMs & Generative AI:</strong> Prompt Engineering, Fine-tuning, OpenAI API, Anthropic Claude API, Hugging Face, Vector Databases (Pinecone, Chroma, FAISS)</li>
-  <li><strong>AI Projects & MLOps:</strong> Model Deployment, FastAPI, Docker, MLflow, Streamlit, Gradio, AWS SageMaker</li>
-  <li><strong>Full Stack:</strong> React.js, Node.js, Django, REST APIs, PostgreSQL, MongoDB</li>
-</ul>
+```python
+class BingiSarada:
+    name       = "Bingi Sarada"
+    role       = ["Data Scientist", "AI Engineer"]
+    status     = "Fresher | Open to Opportunities"
+    location   = "India 🇮🇳"
 
-<h3 align="left">ðŸ“š Current Learning</h3>
-<ul align="left">
-  <li>Building advanced <strong>Agentic AI</strong> systems using LangGraph, CrewAI, and AutoGen.</li>
-  <li>Deepening expertise in <strong>LLM fine-tuning</strong> and model alignment techniques.</li>
-  <li>Exploring <strong>MLOps</strong> best practices and scalable AI infrastructure on AWS & Azure.</li>
-  <li>Researching <strong>Multi-Agent collaboration frameworks</strong> and autonomous AI pipelines.</li>
-</ul>
+    skills     = {
+        "AI/ML"     : ["LLMs", "Deep Learning", "NLP", "Computer Vision"],
+        "Agentic AI": ["LangChain", "LangGraph", "CrewAI", "AutoGen", "MCP"],
+        "Data"      : ["Python", "Pandas", "NumPy", "Scikit-learn", "SQL"],
+        "MLOps"     : ["FastAPI", "Streamlit", "Docker", "MLflow", "AWS"],
+    }
 
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">ðŸ”¥Storyblok MCP Server: Let AI Agents Manage Your Content ðŸ¤–</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">ðŸ”¥Pulstack: Deploy your static site to S3 or GitHub in &lt;1 minðŸ™‚</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1ðŸ¤¯</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
+    interests  = ["Agentic AI Systems", "LLM Fine-tuning", "Multi-Agent Pipelines"]
+    currently  = "Building real-world AI-powered applications 🤖"
+    hobbies    = ["Technical Blogging ✍️", "Open Source Contributing ❤️", "Mentoring 🙏"]
+
+    def motto(self):
+        return "Every day is a learning opportunity."
+```
 
 ---
 
-<!--Agentic AI Frameworks Section-->
-<h2 align="center">ðŸ¤– AÉ¢á´‡É´á´›Éªá´„ AI & FÊ€á´€á´á´‡á´¡á´Ê€á´‹s</h2>
+## 🧠 Data Science & AI Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 📊 Data Science
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Techniques:** EDA, Feature Engineering, Statistical Analysis
+
+### 🤖 Machine Learning & Deep Learning
+- Supervised / Unsupervised Learning
+- Neural Networks, CNNs, RNNs, Transformers
+- **Frameworks:** PyTorch, TensorFlow, Keras
+- **NLP / LLMs:** HuggingFace, OpenAI API, Anthropic Claude API
+
+</td>
+<td valign="top" width="50%">
+
+### 🦾 Agentic AI
+- **Frameworks:** LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex, OpenAI Agents SDK
+- **Protocols:** MCP (Model Context Protocol)
+- **Pipelines:** RAG Pipelines, Multi-Agent Systems
+
+### 🛠️ MLOps & Deployment
+- **APIs & UI:** FastAPI, Streamlit, Gradio
+- **DevOps:** Docker, MLflow
+- **Cloud:** AWS SageMaker, Azure (basics)
+- **Full Stack:** React.js, Node.js, PostgreSQL, MongoDB
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+- 🔗 Building advanced **Agentic AI** systems using LangGraph, CrewAI, and AutoGen
+- 🧬 Deepening expertise in **LLM fine-tuning** and model alignment techniques
+- ☁️ Exploring **MLOps** best practices and scalable AI infrastructure on AWS & Azure
+- 🤝 Researching **Multi-Agent collaboration frameworks** and autonomous AI pipelines
+
+---
+
+## 🤖 Agentic AI & Frameworks
+
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -85,8 +102,10 @@
   <img src="https://img.shields.io/badge/RAG_Pipelines-FF9500?style=for-the-badge&logoColor=white" />
 </p>
 
-<!--Data Science Stack Section-->
-<h2 align="center">ðŸ“Š Dá´€á´›á´€ Sá´„Éªá´‡É´á´„á´‡ Sá´›á´€á´„á´‹</h2>
+---
+
+## 📊 Data Science Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -100,126 +119,112 @@
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-<!--Trophies Section-->
-<h2 align="center">ðŸ† GÉªá´›Êœá´œÊ™ TÊ€á´á´˜ÊœÉªá´‡s ðŸ†</h2>
-<p align="center">
-  <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br />
+## 📝 Latest Blog Posts
 
-<!--Github stats Table-->
-<h2 align="center">ðŸ“Š GÉªá´›Êœá´œÊ™ Sá´›á´€á´›s ðŸ“Š</h2>
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [Storyblok MCP Server: Let AI Agents Manage Your Content 🤖](https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa)
+- 🔥 [Pulstack: Deploy Your Static Site to S3 or GitHub in <1 min](https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin)
+- 🤯 [I Tried Out Qodo's New Embed Model — Qodo-Embed-1](https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5)
+<!-- BLOG-POST-LIST:END -->
+
+> ✍️ I write about AI, Agentic Systems, and developer tools on [DEV Community](https://dev.to/dev_kiran)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>GÉªá´›Êœá´œÊ™ Sá´›á´€á´›s</strong></h3>
+      <h3 align="center">GitHub Stats</h3>
       <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sá´›Ê€á´‡á´€á´‹ Sá´›á´€á´›s</strong></h3>
+      <h3 align="center">Streak Stats</h3>
       <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
+        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=tokyonight" alt="Streak Stats" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lá´€á´›á´‡sá´› PÊ€á´á´Šá´‡á´„á´›</strong></h3>
+      <h3 align="center">Top Languages</h3>
       <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran1689&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tá´á´˜ Cá´É´á´›Ê€ÉªÊ™á´œá´›Éªá´É´s</strong></h3>
+      <h3 align="center">Latest Project</h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=tokyonight&show_owner=true" alt="Latest Project" />
       </p>
     </td>
   </tr>
 </table>
-<br />
-
 
 </div>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">ðŸŒŸ TÊœá´á´œÉ¢Êœá´› á´Ò“ á´›Êœá´‡ Dá´€Ê ðŸŒŸ</h2>
+## 🏅 Community & Achievements
 
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Integrity%20is%20the%20ability%20to%20stand%20by%20an%20idea.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
+| Role | Community |
+|------|-----------|
+| 🛡️ Trusted Moderator | [DEV Community](https://dev.to/) |
+| 🙏 Lifetime Insider & Mentor | [Exercism](https://exercism.org/) |
+| ✍️ Technical Blogger | [DEV](https://dev.to/dev_kiran) |
+| ❤️ Open Source Contributor | GitHub |
 
 ---
 
-<!--Contact Section-->
-<h2 align="center">ðŸ¤ Cá´É´É´á´‡á´„á´› WÉªá´›Êœ Má´‡ ðŸ¤ </h2>
+## 💡 Thought of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
 <div align="center">
 
-<a href="mailto:ssartale6@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="ssartale6@gmail.com" style="margin-bottom: 5px;" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssartale6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bingi-sarada-380457384)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharadabingi494-lab)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dev_kiran)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
-<a href="" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
-
-<a href="" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/sharadabingi494-lab?tab=repositories" target="_blank">
-<img src="./github.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/bingi-sarada-380457384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
 </div>
+
+---
+
+<div align="center">
+
+### 💬 Open to Collaborations, Internships & Entry-Level Opportunities!
+
+> *"Integrity is the ability to stand by an idea." — Ayn Rand*
+
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20Views&color=6366f1&style=for-the-badge)
+
 </div>
 
-<!--Footer-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
